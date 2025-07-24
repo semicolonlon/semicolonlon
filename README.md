@@ -1,4 +1,4 @@
-## ¿Qué onda, amigo?
+## 恥の多い人生でした
 
 ### Minecraft with Processing
 Processingで作成したMinecraft-極-。ただのオマージュではなく、pythonスクリプトを媒介しscanivereで記録した点群データを解析することで、ワールドの地形としてプロット可能。
